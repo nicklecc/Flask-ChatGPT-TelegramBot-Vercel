@@ -15,7 +15,7 @@
   "functions": {
     "api": {
       "memory": 128,
-      "timeout": 30
+      "timeout": 60
     }
   }
 }
